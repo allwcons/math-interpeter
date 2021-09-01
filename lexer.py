@@ -27,6 +27,7 @@ class Lexer:
             elif self.current_char == "^" or self.current_char == "*":
                 self.advance()
                 if self.current_char == "*":
+                    self.advance()
                     yield Token(TokenType.POW)
                 else:
                     yield Token(TokenType.MULTIPLY) 
