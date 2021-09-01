@@ -3,14 +3,14 @@
 
 ## supports
 - basic operations 
-    - +
-    - -
-    - /
-    - *
+    - plus (+)
+    - minus (-)
+    - divide (/)
+    - multiply (*)
 - more operations
-    - % (modulo)
-    - ! (factorial)
-    - ^ | ** (power) 
+    - modulo (%)
+    - factorial (!)
+    - power (^ | **) 
 
 - bracket operations
 
