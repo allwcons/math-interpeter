@@ -1,0 +1,3 @@
+WHITESPACE = " \n\t"
+DECIMAL = "."
+DIGIT = "0123456789"
